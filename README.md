@@ -1,2 +1,3 @@
-# Trailer-The-Chosen
-Projeto Trailer The Chosen - 5ª Temporada
+# Projeto - Trailer The Chosen
+
+Projeto baseado no Trailer da 5ª Temporada do The Chosen.
